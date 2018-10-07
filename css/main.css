@@ -4137,3 +4137,10 @@ article.blog-single .blog-content {
         display: none;
     }
 }
+
+
+@media only screen and (max-width: 600px) {
+    .skill-bars li strong{
+            font-size: 10px;
+    }
+}
